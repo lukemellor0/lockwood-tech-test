@@ -11,5 +11,5 @@ This project is a node.js express server, using mongoose to connect to a mongodb
 
 ## Prerequisites
 
-Mongodb
-Node.js
++ Mongodb
++ Node.js
