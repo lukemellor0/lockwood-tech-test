@@ -6,10 +6,10 @@ In the root directory run `npm install`
 Starting the server:
 At the root of the project run `npm start`
 
-This project is a node.js express server, using mongoose to connect to a mongodb.
+This project is a node.js express server, using mongoose to connect to a MongoDB.
 
 
 ## Prerequisites
 
-+ Mongodb
++ MongoDB
 + Node.js
